@@ -1,0 +1,7 @@
+print("hello world")
+<<<<<<< HEAD
+hello
+
+=======
+hello11
+>>>>>>> 1b20908c284a8e73e4e9b7e7cc43181eb97c9b1b
